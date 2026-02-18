@@ -74,13 +74,17 @@ Designed following GDPR-aware data handling principles.
 
 No sensitive information is exposed.
 
-TalentScout-Hiring-Assistant
+## 📂 Project Structure
+
+```
+TalentScout-Hiring-Assistant/
 │
 ├── app.py              → Main Streamlit application
 ├── utils.py            → Helper functions (validation, questions, sentiment)
 ├── requirements.txt    → Project dependencies
 ├── README.md           → Documentation
 └── .gitignore          → Ignored system & environment files
+```
 
 
 
